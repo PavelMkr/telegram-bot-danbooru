@@ -11,7 +11,7 @@ This project is a Telegram bot that periodically sends images from Danbooru base
 
 ## Prerequisites
 
-- **Python 3.7+**
+- **Python 3.8+**
 - **Telegram Bot Token** from [BotFather](https://core.telegram.org/bots#botfather).
 - **Danbooru API Access**
 
@@ -28,8 +28,8 @@ pip install python-telegram-bot[ext] apscheduler nest_asyncio requests
 1. **Clone the repository:**
 
    ```bash
-   git clone <repo-url>
-   cd <repo-folder>
+   git clone https://github.com/PavelMkr/telegram-bot-danbooru
+   cd https://github.com/PavelMkr/telegram-bot-danbooru
    ```
 
 2. **Set up Environment Variables**
